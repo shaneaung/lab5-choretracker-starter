@@ -34,7 +34,7 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/home/shane/s21/67373/assignments/choretracker/app/models/child.rb": [
+      "/home/shane/s21/67373/assignments/choretracker/app/models/task.rb": [
         1,
         1,
         1,
@@ -44,10 +44,6 @@
         null,
         3,
         2,
-        null,
-        1,
-        3,
-        null,
         null,
         null
       ],
@@ -311,11 +307,24 @@
         0,
         0
       ],
-      "/home/shane/s21/67373/assignments/choretracker/app/models/task.rb": [
+      "/home/shane/s21/67373/assignments/choretracker/app/models/child.rb": [
         0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
         0
       ]
     },
-    "timestamp": 1612468112
+    "timestamp": 1612468550
   }
 }
